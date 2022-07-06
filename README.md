@@ -1,4 +1,6 @@
 # Chess
+### Overview
+#### [Made by Imran Farid, Raihan Kabir, Rohit Roy, Sabbir Hasan, Tapos Chandra Das, Sourav Karmakar]
 Chess simulation. Click on the piece to move, and the location to move it to. If the action is legal, it will be taken. The game is done once a King enters checkmate, or once there is a draw.
 
 ## Setup
@@ -57,7 +59,7 @@ There are three special states:
 The king is said to be in check when the next move by the opponent would capture it.
 
 ### Checkmate
-A checkmate occurs when the king is in check, and any action taken results in the king still being in check.
+A checkmate occurs when the king is in check, and any action taken by the opponent results in the king still being in check.
 
 ### Draw
 There are four ways for a draw to occur:
