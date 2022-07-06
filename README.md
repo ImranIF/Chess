@@ -59,7 +59,7 @@ There are three special states:
 The king is said to be in check when the next move by the opponent would capture it.
 
 ### Checkmate
-A checkmate occurs when the king is in check, and any action taken results in the king still being in check.
+A checkmate occurs when the king is in check, and any action taken by the opponent results in the king still being in check.
 
 ### Draw
 There are four ways for a draw to occur:
